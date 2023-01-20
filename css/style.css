@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.bkz-body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.head-bg {
+    background: #264653;
+}
+
+.bkz-btn-primary{
+    background: #E76F51;
+    border-radius: 5px;
+    color: #FFFFFF;
+    padding: 10px 24px;
+    border: none;
+}
+.bkz-btn-secondary{
+    background: #FFFFFF;
+    border-radius: 5px;
+    color: #E76F51;
+    padding: 10px 24px;
+    border: 1px solid #E76F51;
+    text-decoration: none;
+}
+.bkz-btn-secondary:hover{
+    background: #E76F51;
+    color: #FFFFFF;
+}
+.bkz-p-primary{
+    font-size: 14px;
+    color: #E0E0E0;
+}
+.bkz-primary-color{
+    color:#E76F51;
+}
+.bkz-p-secondary{
+    font-size: 16px;
+    color: #6C6C6C;
+}
+.bkz-p-tertiary{
+    font-size: 16px;
+    color: #FFFFFF;
+}
